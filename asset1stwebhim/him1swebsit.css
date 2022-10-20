@@ -533,18 +533,18 @@ img{
 .skills_js{
     width: 60%;
 }
-.skills_react{
-    width: 50%;
+.skills_mysql{
+    width: 70%;
 }
 
-.skills_php{
+.skills_threat{
     width: 60%;
 }
-.skills_node{
-    width: 50%;
+.skills_defense{
+    width: 70%;
 }
-.skills_firebase{
-    width: 30%;
+.skills_tools{
+    width: 70%;
 }
 .skills_python{
     width: 92%;
@@ -559,8 +559,8 @@ img{
 .skills_pythonp{
     width: 80%;
 }
-.skills_java{
-    width: 42%;
+.skills_ass{
+    width: 62%;
 }
 
 .skills_close .skills_list{

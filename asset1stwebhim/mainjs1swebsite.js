@@ -99,7 +99,7 @@ modalCloses.forEach((modalClose) => {
 
 // Typing animation script
 var typed = new Typed(".typing",{
-    strings: ["Computer Scientist","Developer","Coder","Designer","Unique Hacker"],
+    strings: ["Computer Scientist","Developer","Cyber Secuirty Engineer","Security Researcher"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
